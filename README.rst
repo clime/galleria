@@ -1,5 +1,5 @@
 ********
-Galleria
+Galleria fork with vertical carousel (pull request from sammik applied)
 ********
 
 **Responsive JavaScript Image Gallery**
