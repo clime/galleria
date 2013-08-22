@@ -1,10 +1,10 @@
 .. highlight:: javascript
 
 *******
-Classic
+Vertical
 *******
 
-The free open sourced theme that comes bundled with the Galleria core.
+Classic theme with vertical carousel.
 
 Defaults
 --------
@@ -13,7 +13,7 @@ Defaults
 
     {
         transition: "slide",
-        thumbCrop: "height"
+        thumbCrop: "width"
     }
 
 Theme-specific options
